@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.Data", "Infra.Data\Infra.Data.csproj", "{B7D7F37C-85DF-4297-B0E5-37194B1FFBCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{E1E336B2-DDEF-4B11-A4B2-BAD786D5C06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind", "NorthWind\NorthWind.csproj", "{C7CF2F30-94B5-497A-A034-D5B2E48C9BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D7F37C-85DF-4297-B0E5-37194B1FFBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D7F37C-85DF-4297-B0E5-37194B1FFBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D7F37C-85DF-4297-B0E5-37194B1FFBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D7F37C-85DF-4297-B0E5-37194B1FFBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E336B2-DDEF-4B11-A4B2-BAD786D5C06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E336B2-DDEF-4B11-A4B2-BAD786D5C06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E336B2-DDEF-4B11-A4B2-BAD786D5C06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E336B2-DDEF-4B11-A4B2-BAD786D5C06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7CF2F30-94B5-497A-A034-D5B2E48C9BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CF2F30-94B5-497A-A034-D5B2E48C9BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CF2F30-94B5-497A-A034-D5B2E48C9BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CF2F30-94B5-497A-A034-D5B2E48C9BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
